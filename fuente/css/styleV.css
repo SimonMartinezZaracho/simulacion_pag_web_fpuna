@@ -1,0 +1,56 @@
+h1{
+  text-align: center;
+  font-size: 200%;
+  color: rgb(0, 0, 0);
+}
+h2{
+  text-align: center;
+  color: rgb(0, 0, 0) ;
+}
+h3{
+  text-align: center;
+  color: rgb(0, 0, 0) ;
+}
+h4{
+  text-align: center;
+  color: rgb(0, 0, 0) ;
+}
+body {
+  font-family: arial;
+  color: rgb(0, 100, 100);
+  background-color: rgb(210, 210, 255);
+}
+div{
+  text-align: center;
+  border: 1px solid gray;
+}
+img  {
+  float: center;
+}
+div.derecho{
+  float: left;
+  text-align: left;
+}
+div.algunos{
+  text-align: center;
+}
+ul {
+  float: left;
+  text-align: left;
+}
+input[type=text]:focus {
+  width: 250px;
+}
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  float: center;
+  padding: 14px 16px;
+}
+button{
+  color: rgb(0,0,0);
+  font-size: 180%;
+  padding: 5pt;
+  background-color: rgb(210, 210, 255);
+  border: 2px solid black;
+}
